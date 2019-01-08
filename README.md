@@ -1,2 +1,3 @@
 WEBSITE RECOMMENDATION SYSTEM
-(Code explained in comments)
+Websites into consideration: Amazon and Bestbuy
+Comments mentioned for better understanding of code
